@@ -15,4 +15,4 @@ This is my first web development project created using HTML, CSS, and JavaScript
 - JavaScript
 
 ## Author
-Aditya Kumar Yadav
+Aditya Kumar
